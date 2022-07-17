@@ -1,0 +1,12 @@
+@media (max-width: 480px) {
+
+
+}
+@media screen and (min-width:300px) and (max-width:800px) {
+body{font-size:0.8em;}
+#derecha{display:none;}
+#der{display:none;}
+#izquierda{display:none;}
+#centro{ width:100%}
+#pie{ height: 30%}
+}

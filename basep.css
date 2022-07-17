@@ -1,0 +1,46 @@
+#contenedor{
+background:#C90;
+}
+#cabecera{
+background:#E9F570;
+height:123px;
+}
+#menu{
+height:60px;
+background:#77D8A8;
+z-index: 10;
+}
+#izquierda{
+height:561px;
+background:#909497;
+float:left;
+width:20%;
+}
+#centro{
+height:561px;
+background:#A6ACAF;
+float:left;
+width:60%;
+z-index: 4;
+}
+#derecha{
+height:561px;
+background:#909497;
+float:left;
+width:20%;
+}
+#pie{
+height:40px;
+background:#A6ACAF;
+clear:both;
+}
+
+#der { position:absolute;
+	top:200px;
+  right: 30px;
+}
+
+#cabe {
+	width: 100%;
+	height: 100%;
+}
