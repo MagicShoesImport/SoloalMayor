@@ -1,0 +1,16 @@
+@media (max-width: 480px) {
+
+
+}
+@media screen and (min-width:300px) and (max-width:1280px) {
+body{font-size:0.8em;}
+#derecha{display:none;}
+#der{display:none;}
+#izquierda{display:none;}
+#menu{ width: :100%; 
+z-index: 4 100%; }
+#centro{ width:100%;
+z-index: 3;}
+#pie{ height: 25%}
+
+}
